@@ -6,7 +6,7 @@ import { registerLocaleData } from '@angular/common';
 import { RegisterComponent } from './auth/register/register.component';
 import { ProgressComponent } from './pages/progress/progress.component';
 import { Grafic1Component } from './pages/grafic1/grafic1.component';
-import { NopagefoundComponent } from './pages/nopagefound/nopagefound.component';
+import { NopagefoundComponent } from './404/404.component';
 import { PagesComponent } from './pages/pages.component';
 
 const routes: Routes = [
