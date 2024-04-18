@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+
 @Component({
   selector: 'app-grafic1',
   templateUrl: './grafic1.component.html',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class Grafic1Component {
 
+ 
 }
