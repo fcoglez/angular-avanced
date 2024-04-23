@@ -13,6 +13,7 @@ import { Grafic1Component } from './grafic1/grafic1.component';
 import { PagesComponent } from './pages.component';
 import { AccountSettingsComponent } from './account-settings/account-settings.component';
 import { PromesesComponent } from './promeses/promeses.component';
+import { RxjsComponent } from './rxjs/rxjs.component';
 
 
 
@@ -25,7 +26,8 @@ import { PromesesComponent } from './promeses/promeses.component';
     Grafic1Component,
     PagesComponent,
     AccountSettingsComponent,
-    PromesesComponent
+    PromesesComponent,
+    RxjsComponent
   ],
 
   exports:[
